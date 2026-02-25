@@ -1,0 +1,40 @@
+body {
+  margin:0;
+  background:#0f0f0f;
+  color:white;
+  font-family:Arial;
+}
+
+.container {
+  padding:20px;
+}
+
+.card {
+  background:#1d1d1d;
+  padding:15px;
+  border-radius:10px;
+  margin-bottom:15px;
+}
+
+button {
+  background:#2e86de;
+  border:none;
+  padding:8px 14px;
+  border-radius:5px;
+  color:white;
+  cursor:pointer;
+}
+
+video {
+  width:100%;
+  margin-top:10px;
+  border-radius:8px;
+}
+
+.watermark {
+  position:absolute;
+  top:8px;
+  left:8px;
+  font-size:13px;
+  color:rgba(255,255,255,0.4);
+}
