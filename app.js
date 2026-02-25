@@ -9,12 +9,13 @@ document.getElementById("userInfo").innerHTML =
 
 // 🔥 Firebase Config (Replace with your own)
 const firebaseConfig = {
-  apiKey: "YOUR_KEY",
-  authDomain: "YOUR_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_BUCKET",
-  messagingSenderId: "YOUR_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyA0KNwdzWpLmEaBJkU8rlHOJAhgt6Le10Y",
+  authDomain: "upsc-pariksha-efc51.firebaseapp.com",
+  projectId: "upsc-pariksha-efc51",
+  storageBucket: "upsc-pariksha-efc51.firebasestorage.app",
+  messagingSenderId: "117360700542",
+  appId: "1:117360700542:web:fa4831666f2f03da803c2f",
+  measurementId: "G-7PHKHJFLMC"
 };
 
 firebase.initializeApp(firebaseConfig);
